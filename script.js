@@ -27,7 +27,8 @@ const divide = (arr, n) => {
 	
 };
 
+const n = Number(prompt("Enter n: "));
 console.log(divide,arr,n)
 
-const n = prompt("Enter n: ");
+
 
